@@ -1,0 +1,50 @@
+body {
+    
+    background-image: url("../img/grey-background.png") ;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.header {
+    padding: 1px;
+    text-align: center;
+    background-image: url("../img/banner portfolio.png") ;
+    background-size: 250px;
+    font-size: 30px;
+    text-transform: uppercase;
+}  
+
+
+.OverMijTekst {
+      margin-top: 5%;
+
+}
+.Beats {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.BeatsLogo img {
+    width: 400px;
+
+}
+
+.ClubLogo img {
+
+    width: 200px;
+
+}
+
+.Draaien {
+
+    text-align: center;
+}
+
+.OverBeats {
+    background-color: white;
+    margin: 50px 0 50px 0;
+}
